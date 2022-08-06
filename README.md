@@ -6,6 +6,12 @@ The purpose of this analysis was to find the temperatures for the months of june
 
 ## Results:
 
--
+![junetemps](https://user-images.githubusercontent.com/107213807/183263326-f757bb5e-d597-446b-8caa-6943d1a87d69.png)
+
+![dectemps](https://user-images.githubusercontent.com/107213807/183263332-6071a342-b240-4dfb-b133-cbab30839b8b.png)
+
+
+- When looking at the statistical summarys, a key difference is the the minimum temperature. In June the minimum temperature is 64 degrees while in December it was 56 degrees.
+- 
 
 ## Summary:
