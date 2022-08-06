@@ -13,6 +13,6 @@ The purpose of this analysis was to find the temperatures for the months of june
 
 - When looking at the statistical summarys, a key difference is the the minimum temperature. In June the minimum temperature is 64 degrees while in December it was 56 degrees.
 - Another important difference is the mean temperature of June is higher than December. While the difference isn't massive, it still means the weather is warmer throughout June.
-- A key differnce worth noting is that the  
+- A key differnce worth noting is that the count of temperatures in June is higher than December. This means that some of the data for December is missing and the summary doesn't fully reflect the December weather. Part of the difference of count could come from the fact December has 31 days and June has 30. Since the data has many years, the difference in days add up. 
 
 ## Summary:
